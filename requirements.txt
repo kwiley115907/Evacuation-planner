@@ -1,0 +1,4 @@
+id="req1"
+
+streamlit
+pillow
